@@ -1,0 +1,36 @@
+body{
+    background-image: url("bg1.jpg");
+}
+
+#head1{
+    font-family: 'Grape Nuts', cursive;
+    background-color:rgb(255, 255, 255);
+    height: 50px;
+    width: 262px;
+    font-weight: bolder;
+    border-radius: 30px;
+}
+
+canvas{
+    border: 10px;
+    border-style: double;
+    border-color: black;
+}
+
+
+
+#button1{
+    background-color: rgb(255, 85, 212);
+    height:40px;
+    width:150px;
+    border-radius: 30px;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+
+#button1:hover{
+    background-color: rgb(122, 0, 146);
+    color: white;
+}
+
